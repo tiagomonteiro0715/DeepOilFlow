@@ -1,5 +1,8 @@
 # DeepOilFlow
 
+![DeepOilFlow Presentation](https://github.com/tiagomonteiro0715/DeepOilFlow/blob/main/slide_presentation.png)
+
+
 This project designs an AI deep learning system to predict future oil production rates for petroleum wells using historical production data. 
 
 The implementation includes advanced features such as:
